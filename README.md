@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>🎓 Final-year B.Tech student (Data Science)<br>💻 Aspiring Full Stack Developer (Java + Spring Boot + React)<br>🚀 Passionate about building scalable and efficient web applications<br>📊 Interested in applying Data Science concepts to real-world problems<br>🧠 Strong foundation in Data Structures, OOP, and problem-solving<br>🛠️ Hands-on experience with Java, Spring Boot, React, SQL<br>🔗 Skilled in developing RESTful APIs and full-stack projects<br>📈 Continuously learning and improving through projects and coding practice<br>🎯 Career goal: Software Developer / Full Stack Developer
+ About Me<br>🎓 Final-year B.Tech student (Data Science)<br> Aspiring Full Stack Developer (Java + Spring Boot + React)<br> Passionate about building scalable and efficient web applications<br> Interested in applying Data Science concepts to real-world problems<br> Strong foundation in Data Structures, OOP, and problem-solving<br> Hands-on experience with Java, Spring Boot, React, SQL<br> Skilled in developing RESTful APIs and full-stack projects<br> Continuously learning and improving through projects and coding practice<br> Career goal: Software Developer / Full Stack Developer
 
 
 ## 🌐 Socials:
